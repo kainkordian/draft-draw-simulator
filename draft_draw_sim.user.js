@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Draw a hand from your drafted deck on draftsim.org
 // @author       kainkordian
-// @match        https://draftsim.com/draft.php?mode=*
+// @match        https://*.draftsim.com/draft.php?mode=*
 // @grant        none
 // @require      http://code.jquery.com/jquery-latest.js
 // ==/UserScript==
